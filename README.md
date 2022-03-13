@@ -1,6 +1,6 @@
 <h1 align="center">Gerara Here!</h1>
 <p align="center">
-  <img src="https://i.makeagif.com/media/3-28-2019/cLNokT.gif" />
+  <img src="https://i.hizliresim.com/ltbeubd.gif" />
 </p>
 
 <!--
