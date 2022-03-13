@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Gerara Here!</h1>
+<p align="center">
+  <img src="https://i.makeagif.com/media/3-28-2019/cLNokT.gif" />
+</p>
 
 <!--
 **ayhanexe/ayhanexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
