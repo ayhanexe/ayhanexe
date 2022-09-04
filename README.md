@@ -1,6 +1,6 @@
 <h1 align="center">Gerara Here!</h1>
 <p align="center">
-  <img src="https://i.hizliresim.com/ltbeubd.gif" />
+  <img src="https://github.com/ayhanexe/ayhanexe/raw/main/gerara.gif" />
 </p>
 
 <!--
